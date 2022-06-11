@@ -1,0 +1,10 @@
+{
+    "name": "ToDOList",
+    "description": "Gives you to add task to do and cut them off when done in a single click",
+    "version": "0.1.0",
+    "action": {
+        "default_title" : "Todo List",
+        "default_popup" : "todo.html"
+    },
+    "manifest_version": 3
+}
